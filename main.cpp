@@ -1,6 +1,5 @@
-#include <iostream>
 #include "TextFileIO.h"
-using namespace std;
+#include "People.h"
 
 int main(void)
 {
