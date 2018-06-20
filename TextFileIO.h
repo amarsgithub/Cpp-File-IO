@@ -5,7 +5,11 @@ using namespace std;
 #include <vector>
 #include "People.h"
 
+// String import:
+#include <sstream>
+
 // File IO imports:
 #include <fstream>
 
-void GetPeopleFromFile(vector<string> people);
+void GetPeopleFromFile(vector<People> &peeps);
+void PutMyArrayToAFile(int *arr);
