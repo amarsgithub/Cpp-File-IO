@@ -3,4 +3,4 @@
 #include <iostream>
 #include <fstream>
 
-// void WriteToBinaryFile(People somePerson);
+void WriteToBinaryFile(People somePerson);
